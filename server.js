@@ -73,7 +73,7 @@ app.get("/scrape", function(req, res) {
   });
 
   // Send a "Scrape Complete" message to the browser
-  res.send("Scrape Complete");
+  res.send("Scrape For New York Times Complete");
 });
 
 
